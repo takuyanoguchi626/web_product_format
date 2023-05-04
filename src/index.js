@@ -1,4 +1,3 @@
-// import "./scss/style.scss"
-import "./index.css"
+import "./scss/style.scss"
 
 console.log("Hello World!");
