@@ -1,2 +1,4 @@
-@import url("./normalize.scss");
-@import url("./service.scss");
+@charset 'utf-8';
+
+@forward './base.scss';
+@forward './service.scss';

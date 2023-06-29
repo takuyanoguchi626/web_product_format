@@ -1,6 +1,7 @@
 @charset 'utf-8';
+@use 'basic' as g;
 
 .aaa {
     background-color: aqua;
-    color: brown;
+    color: g.colors(gray);
 }
